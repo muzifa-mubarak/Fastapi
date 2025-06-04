@@ -1,0 +1,153 @@
+
+[
+  {
+    "name": "Mad Max: Fury Road",
+    "genre": "Action",
+    "year": 2015,
+    "director": "George Miller"
+  },
+  {
+    "name": "John Wick",
+    "genre": "Action",
+    "year": 2014,
+    "director": "Chad Stahelski"
+  },
+  {
+    "name": "Die Hard",
+    "genre": "Action",
+    "year": 1988,
+    "director": "John McTiernan"
+  },
+  {
+    "name": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "director": "Christopher Nolan"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "genre": "Comedy",
+    "year": 2014,
+    "director": "Wes Anderson"
+  },
+  {
+    "name": "Superbad",
+    "genre": "Comedy",
+    "year": 2007,
+    "director": "Greg Mottola"
+  },
+  {
+    "name": "Step Brothers",
+    "genre": "Comedy",
+    "year": 2008,
+    "director": "Adam McKay"
+  },
+  {
+    "name": "The Hangover",
+    "genre": "Comedy",
+    "year": 2009,
+    "director": "Todd Phillips"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "director": "Frank Darabont"
+  },
+  {
+    "name": "Parasite",
+    "genre": "Drama",
+    "year": 2019,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "name": "Forrest Gump",
+    "genre": "Drama",
+    "year": 1994,
+    "director": "Robert Zemeckis"
+  },
+  {
+    "name": "Fight Club",
+    "genre": "Drama",
+    "year": 1999,
+    "director": "David Fincher"
+  },
+  {
+    "name": "Interstellar",
+    "genre": "Science Fiction",
+    "year": 2014,
+    "director": "Christopher Nolan"
+  },
+  {
+    "name": "Inception",
+    "genre": "Science Fiction",
+    "year": 2010,
+    "director": "Christopher Nolan"
+  },
+  {
+    "name": "Blade Runner 2049",
+    "genre": "Science Fiction",
+    "year": 2017,
+    "director": "Denis Villeneuve"
+  },
+  {
+    "name": "The Matrix",
+    "genre": "Science Fiction",
+    "year": 1999,
+    "director": "The Wachowskis"
+  },
+  {
+    "name": "The Conjuring",
+    "genre": "Horror",
+    "year": 2013,
+    "director": "James Wan"
+  },
+  {
+    "name": "Get Out",
+    "genre": "Horror",
+    "year": 2017,
+    "director": "Jordan Peele"
+  },
+  {
+    "name": "A Quiet Place",
+    "genre": "Horror",
+    "year": 2018,
+    "director": "John Krasinski"
+  },
+  {
+    "name": "Hereditary",
+    "genre": "Horror",
+    "year": 2018,
+    "director": "Ari Aster"
+  },
+  {
+    "name": "",
+    "genre": "Action",
+    "year": 2021,
+    "director": "John Doe"
+  },
+  {
+    "name": null,
+    "genre": "Comedy",
+    "year": 2019,
+    "director": "Jane Smith"
+  },
+  {
+    "name": "",
+    "genre": "Drama",
+    "year": 2020,
+    "director": "Ali Khan"
+  },
+  {
+    "name": "conguring",
+    "genre": "Horror",
+    "year": 2022,
+    "director": "Emily Rose"
+  },
+  {
+    "name": "",
+    "genre": "Science Fiction",
+    "year": 2018,
+    "director": "Neil Clarke"
+  }
+]
