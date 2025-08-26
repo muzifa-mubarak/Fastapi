@@ -108,7 +108,7 @@ def movie_rec(genre: str):
     url = f"https://moviesminidatabase.p.rapidapi.com/movie/byGen/{genre}/"
 
     headers = {
-        "x-rapidapi-key": "82788a0a25msh329cac9065e5b52p1a5eb3jsn5f03143bd526",
+        "x-rapidapi-key": "",
         "x-rapidapi-host": "moviesminidatabase.p.rapidapi.com"
     }
 
